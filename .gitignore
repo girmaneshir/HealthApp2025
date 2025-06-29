@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+secrets.toml
+
+# Data files
+*.csv
+*.pkl
+*.h5
+*.bin
+*.parquet
+/data/
+
+# Large files
+*.zip
+*.7z
+
+# IDE
+.vscode/
+.idea/
